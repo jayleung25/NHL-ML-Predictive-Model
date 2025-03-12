@@ -1,4 +1,4 @@
- NHL Player Performance Prediction
+# NHL Player Performance Prediction
 
 ## Project Overview
 This project develops a **machine learning-based projection system** that predicts how a hockey player will perform in their **first three NHL seasons** based on their **pre-NHL statistics**. The model processes **historical player data**, scrapes additional statistics from **HockeyDB**, and applies **Random Forest Regression** to generate performance forecasts.
